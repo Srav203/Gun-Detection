@@ -66,8 +66,9 @@ Press 'q' to exit the program.
 
 It prints "guns detected" if a gun is found.
 
-Project Structure
 
+
+Project Structure
 📂 Gun-Detection
  ┣ 📄 gun-detection.py    # Main Python script
  ┣ 📄 cascade.xml         # Haar cascade XML file for gun detection
