@@ -6,7 +6,7 @@ This project detects guns in a live video stream using OpenCV and Haar Cascade c
 
 ---
 
-Features
+Features 
 
 Real-time gun detection using Haar Cascade classifiers.
 
